@@ -63,7 +63,7 @@ The model is trained for a total of 100 epochs. The BLEU score achieved after 10
 ## Usage
 1. Clone this repository to your local machine:
 ```
-git clone <repository_url>
+git clone https://github.com/Anirvan-Krishna/machine_translation/tree/main
 ```
 2. Install the required dependencies as mentioned above.
 3. Run the main.py script to translate German sentences to English:
